@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="model29">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\项目\userprofile29\model29\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="common29">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\My_Data\IDEA_WorkSpace\userprofile29\common29\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\项目\userprofile29\common29\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="genderTag">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\项目\userprofile29\genderTag\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="JobTag">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\项目\userprofile29\JobTag\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="blackListTag">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\项目\userprofile29\blackListTag\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
